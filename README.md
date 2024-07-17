@@ -1,10 +1,10 @@
-# Machine-Learning-Models
+# Machine-Learning-Models🤖🕹
 Personal Tutorials and Projects from Youtube and other Platforms to learn about how to create ML models and AI's
-# Repository Overview
+# Repository Overview 
 
 This repository contains a collection of Jupyter Notebooks showcasing various machine learning projects. Each notebook demonstrates the application of different machine learning techniques to solve real-world problems. Below is a brief explanation of each project:
 
-## Projects
+## Projects📂
 
 ### Credit_Card_Fraud_Detector.ipynb
 This project aims to detect fraudulent credit card transactions using machine learning algorithms. The notebook covers data preprocessing, feature selection, model training, and evaluation to identify suspicious transactions.
