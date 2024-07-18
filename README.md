@@ -30,4 +30,7 @@ In this project, machine learning models are developed to predict the status of 
 ### Wine_Quality_Predictor.ipynb
 This notebook focuses on predicting the quality of wine based on its chemical properties. The project explores different regression and classification techniques to develop a model that can assess wine quality accurately.
 
+### Calories_Burnt_Predictor_Using_ML.ipynb
+This project aims to predict the number of calories burnt during physical activity using machine learning algorithms. The notebook includes data preprocessing, feature engineering, and model training to estimate calorie expenditure based on various factors such as duration, intensity, and type of activity. The goal is to provide accurate predictions that can help individuals track and manage their fitness goals.
+
 Each project is designed to provide hands-on experience with different aspects of machine learning, from data preprocessing to model evaluation, offering valuable insights into solving practical problems using data science techniques.
